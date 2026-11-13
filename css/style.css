@@ -82,5 +82,29 @@ footer li a {
 }
 
 .SO {
-    background-color: rgb(15, 194, 194);
+    background-color: rgb(69, 216, 216);
+}
+
+.MM {
+    background-color: rgb(148, 111, 62);
+}
+
+.MO {
+    background-color: violet;
+}
+
+.TO {
+    background-color: violet;
+}
+
+.OF {
+    background-color: limegreen;
+}
+
+.IP {
+    background-color: greenyellow;
+}
+
+.DA {
+    background-color: rgb(187, 238, 110);
 }
